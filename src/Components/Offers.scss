@@ -1,0 +1,49 @@
+.offers-section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.offers-div{
+    background-color: rgb(255, 255, 255);
+    // width: 60%;
+    padding: 15px;
+    gap: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    box-shadow: 0px 1px 4px 4px rgb(0 0 0 / 11%);
+    ul li{
+        list-style: none;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+        line-height: 30px;
+}
+img{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+}
+a{
+    border: 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    width: 150px;
+    height: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EDAF52;
+    color: #fff;
+    margin-left: 30px;
+    ion-icon{
+        color:#fff
+    }
+}
+}
+ion-icon{
+    color:#bd7509;
+    margin-right: 5px;
+}

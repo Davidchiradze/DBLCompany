@@ -1,0 +1,26 @@
+.services{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    img{
+        width: 80px;
+    }
+}
+.services div{
+    background-color: rgb(255,255,255);
+    cursor: pointer;
+    height: 200px;
+    width: 200px;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+    box-shadow: rgb(0 0 0 / 30%) 10px 10px 10px -8px;
+
+    >h3{
+        font-size: 25px;
+    }
+}

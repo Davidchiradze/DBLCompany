@@ -29,6 +29,7 @@ const Offers = () => {
         </ul>
 
         <a href='tel:+995591605600'> <ion-icon name="call-outline"></ion-icon> დარეკეთ ნომერზე</a>
+        
     </div>
     </section>
 
